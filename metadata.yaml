@@ -1,5 +1,8 @@
 _repo: Little-Arthur-s-history-of-England_70529
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70529-h/images/cover.jpg
 creator:
   author:
     agent_name: Callcott, Maria, Lady
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9762
     wikipedia: https://en.wikipedia.org/wiki/Maria_Graham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70529#Little-Arthur-s-history-of-England
 gutenberg_issued: '2023-04-11'
 identifiers:
   gutenberg: '70529'
